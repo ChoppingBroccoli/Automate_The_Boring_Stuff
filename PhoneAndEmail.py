@@ -1,3 +1,5 @@
+# This program takes input from the clipboard, extracts phone numbers and email addresses, then puts the data back onto the clipboard
+
 import re, pyperclip
 
 # Create a regex for phone numbers
